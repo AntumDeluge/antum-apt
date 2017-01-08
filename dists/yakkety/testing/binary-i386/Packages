@@ -7,10 +7,10 @@ Pre-Depends: apt, wget
 Priority: standard
 Section: admin
 Filename: pool/testing/a/antum-pubkey/antum-pubkey_0.1_all.deb
-Size: 968
-SHA256: c47a66090ee869b8eafe22283358750c4a47446014e41550989bca02dec9c9b9
-SHA1: aa738c12dc8104c8d9367316d3cabd11cf0a8d83
-MD5sum: 3b73fdc40fb766d2a0602ecef530f66a
+Size: 964
+SHA256: 4da25308070821459cce239a3912ed08742a26f23c5fe3d4e8f7f3b3cdc4d085
+SHA1: 83ad487910f24a2099e4028c1f35cf517530d745
+MD5sum: 8f06c9718b510f175f80e6e851b6fd3d
 Description: Meta package to install the public key for this repository
 
 Package: debreate
