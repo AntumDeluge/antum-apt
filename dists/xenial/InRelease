@@ -4,7 +4,7 @@ Hash: SHA256
 Origin: GitHub
 Label: Debreate APT
 Codename: xenial
-Date: Sun, 08 Jan 2017 09:34:18 UTC
+Date: Sun, 08 Jan 2017 10:12:01 UTC
 Architectures: i386 amd64
 Components: main testing
 Description: Debreate package repository
@@ -50,11 +50,11 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQEcBAEBCAAGBQJYcgefAAoJEOPjWML0TCkKELoH/2k5uvq5/18PkiyPbhqOdiAy
-PS6G4w9rBh15MWeRnP5cluQQlJ9F1LLUHYLITvKO3jHkey/UpLBXDp2K4JNeewiw
-eXjZh/wEMeyLuGzwY5kx8E8cBOz1t1ab8Vgo9maqzw9Eku8jeHAOJbeX1dEMJPul
-NFOTDyu3U34lcOdKEHKvZvWUgZn9nkpHngNiGO9et6nNy1t7c1SB8ai8Eab9c0xx
-c4UtwzA3XEmvzDZQy+Znsc2MznGKr30a+c4mxVoHSCIaeUmitMU+ASo6LUeXCXUw
-f6RSRcsuLZbQF9UEMabn6aRsBMfUKQi1ujB9EDEtiC4ZvLdgOZrwtUVFtobwg90=
-=Euvn
+iQEcBAEBCAAGBQJYchBxAAoJEOPjWML0TCkKPEoH+gNV2bXII2tYnoJAFYdbz9Zq
+EkOTNR5j14uxfU1GX/bXDJk+0E0q0lMkcRH6HJt5jmj1wWjgZUIuoM8MJSqHJD3M
+jA6e9ewuXplgkPJ7LGWYIUF788kKewZ+FYDyWYoIe7oc18Yj56ZJF5/yMdinHQxE
+i6iQtG+rRj7Xy8GvNdBZu0AZ7rtWzrjlnrGEaL3w5gWbwykDchiKRWEkxw5JfeAa
+Y+oMksCT/QyuEuLF1gGMw4YtFjnKgVzaTyvKIwzPz2Q+yZAhaC/GXUjKwtB+Nw+U
+SZHCMPJvOe/cdK9QmZSZ8jO4cU+o8MCUEruckryh51DGsBy20MtOyxkBN2a0WgA=
+=LeUO
 -----END PGP SIGNATURE-----

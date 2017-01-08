@@ -9,9 +9,9 @@ Pull: xenial
 
 Origin: GitHub
 Label: Debreate APT
-Codename: yackety
+Codename: yakkety
 Architectures: i386 amd64
 Components: main testing
 Description: Debreate package repository
 SignWith: F44C290A
-Pull: yackety
+Pull: yakkety

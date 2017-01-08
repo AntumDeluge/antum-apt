@@ -1,7 +1,7 @@
 Origin: GitHub
 Label: Debreate APT
-Codename: yackety
-Date: Sun, 08 Jan 2017 09:34:24 UTC
+Codename: yakkety
+Date: Sun, 08 Jan 2017 10:12:02 UTC
 Architectures: i386 amd64
 Components: main testing
 Description: Debreate package repository
