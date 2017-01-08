@@ -4,7 +4,7 @@ Codename: xenial
 Architectures: i386 amd64
 Components: main testing
 Description: Debreate package repository
-SignWith: yes
+SignWith: F44C290A
 Pull: xenial
 
 Origin: GitHub
@@ -13,5 +13,5 @@ Codename: yackety
 Architectures: i386 amd64
 Components: main testing
 Description: Debreate package repository
-SignWith: yes
+SignWith: F44C290A
 Pull: yackety
