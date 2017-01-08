@@ -3,6 +3,18 @@
 COMPONENT=${COMPONENT:=main}
 DISTS=$(grep "Codename:" "./conf/distributions" | sed -e 's/Codename: //')
 
+if [ "$1" == "remove" ]; then
+	if [ ! -n "${2+x}" ]; then
+		echo "Error: Please provide package name to remove"
+		exit 1
+	else
+		for D in ${DISTS}; do
+			reprepro remove ${D} $2
+		done
+	fi
+	exit 0
+fi
+
 if [ ! "$2" == "" ]; then
 	COMPONENT=$2
 fi
