@@ -1,11 +1,11 @@
 Origin: GitHub
 Label: Debreate APT
-Codename: xenial
+Codename: zesty
 Architectures: i386 amd64
 Components: main testing
 Description: Debreate package repository
 SignWith: F44C290A
-Pull: xenial
+Pull: zesty
 
 Origin: GitHub
 Label: Debreate APT
@@ -15,3 +15,30 @@ Components: main testing
 Description: Debreate package repository
 SignWith: F44C290A
 Pull: yakkety
+
+Origin: GitHub
+Label: Debreate APT
+Codename: xenial
+Architectures: i386 amd64
+Components: main testing
+Description: Debreate package repository
+SignWith: F44C290A
+Pull: xenial
+
+Origin: GitHub
+Label: Debreate APT
+Codename: trusty
+Architectures: i386 amd64
+Components: main testing
+Description: Debreate package repository
+SignWith: F44C290A
+Pull: trusty
+
+Origin: GitHub
+Label: Debreate APT
+Codename: precise
+Architectures: i386 amd64
+Components: main testing
+Description: Debreate package repository
+SignWith: F44C290A
+Pull: precise
