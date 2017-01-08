@@ -1,0 +1,60 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: GitHub
+Label: Debreate APT
+Codename: yackety
+Date: Sun, 08 Jan 2017 08:54:53 UTC
+Architectures: i386 amd64
+Components: main testing
+Description: Debreate package repository
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ f12530ba245a6ccbff60b75423ccffaf 111 main/binary-i386/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ 8351140aac8a48cf01f8cd5fb97f6c5c 112 main/binary-amd64/Release
+ ffcf08fd07865e1fa344fdfc6086da4b 1542 testing/binary-i386/Packages
+ 91264b2c354f2f3e4e82bff94bdc940d 919 testing/binary-i386/Packages.gz
+ fda9b1de6dd8192f366178c2f42c87f4 114 testing/binary-i386/Release
+ ffcf08fd07865e1fa344fdfc6086da4b 1542 testing/binary-amd64/Packages
+ 91264b2c354f2f3e4e82bff94bdc940d 919 testing/binary-amd64/Packages.gz
+ 6a94dbe18efbe90ad0beec6de826e4f8 115 testing/binary-amd64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 3e0d9f0eb92e3edfad34154abb21ad351ef88caf 111 main/binary-i386/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ 107f6523997fd7e78191ff019e395517f6d3dce8 112 main/binary-amd64/Release
+ 70ad3a329576125e39ec4c9a54bfad7c04df8aec 1542 testing/binary-i386/Packages
+ 797a047239322fe1bba0d0ea9d05cea5b67d9969 919 testing/binary-i386/Packages.gz
+ 94e425178eacf5217746a342462f691ba53f6068 114 testing/binary-i386/Release
+ 70ad3a329576125e39ec4c9a54bfad7c04df8aec 1542 testing/binary-amd64/Packages
+ 797a047239322fe1bba0d0ea9d05cea5b67d9969 919 testing/binary-amd64/Packages.gz
+ 59d59dc57eb30c998da6308a6a02fbe5c7db08d1 115 testing/binary-amd64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ d25a9943b50910ce0cc061c25f546395fd08112349abc802099910c844c63ac5 111 main/binary-i386/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ a19d2603df840431d67d942ed6632c833407f7555cee05d1020580be2574e374 112 main/binary-amd64/Release
+ bbbef03512909c73311f31eff58e41783952e6aa07f38efa67ab21416cb2b712 1542 testing/binary-i386/Packages
+ b14ed9a83e48781e4c34cee2685a52242b79e6c45370ff76c541027aacbdc269 919 testing/binary-i386/Packages.gz
+ 055e93609cd773348e8a6d23956675ab1dbc0a03e4c64bbbad99ab44561befdc 114 testing/binary-i386/Release
+ bbbef03512909c73311f31eff58e41783952e6aa07f38efa67ab21416cb2b712 1542 testing/binary-amd64/Packages
+ b14ed9a83e48781e4c34cee2685a52242b79e6c45370ff76c541027aacbdc269 919 testing/binary-amd64/Packages.gz
+ d256c717361ec378e9c90f965a0c72129fd2c9df84a6821e73af2f2735d88174 115 testing/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQEcBAEBCAAGBQJYcf5dAAoJEOPjWML0TCkKOrwH/jpkaAdeflXbeuSf0d+6BlwV
+evIzlcMV0AIwptcis32KLP0QPPIvC1F+BbWV1bgm1e9l1HdoUad141O+lMKYN1ZU
+nVdDFNBMLKRukzLS0nwoI8pvkzG/+u2fqwVxonrO696AWzVuTXmHyBW3rjfWNii+
+F5j41gIfXBNTlx2LxI+7lsMZz5UcKQK64QuJN9izU+ZEyeugjX+LBhsFRnhxqzJD
+2pIqFhnBy2gUyB09+WiXFC3JlNI/NxYvmfkkTk67aupUBvfTpmlTEdZAYmxJh+w3
+bH33myZDVKbkR0WaZb8D/V4urwApGyL/5s8R3pL75vL5FxFaZGALcJ+Mj2va62E=
+=MpBt
+-----END PGP SIGNATURE-----

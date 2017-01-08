@@ -1,0 +1,33 @@
+Package: debreate
+Version: 0.7.13-dev4
+Architecture: all
+Maintainer: Jordan Irwin <antumdeluge@gmail.com>
+Installed-Size: 1462
+Depends: python2.7, python-wxgtk3.0 | python-wxgtk2.8, fakeroot, dpkg (>= 1.0.0), file, util-linux (>= 2.0.0), debianutils (>= 4.0.0)
+Recommends: lintian, coreutils (>= 8.0), xdg-utils, man-db, gzip (>= 1.0), binutils, gvfs-bin
+Suggests: gdebi | gdebi-kde
+Homepage: https://antumdeluge.github.io/debreate-web/
+Priority: optional
+Section: devel
+Filename: pool/testing/d/debreate/debreate_0.7.13-dev4_all.deb
+Size: 592804
+SHA256: 19e3c8bb1461cb6fc8f4fcc18d616b3039f513f15623334c30581e52789aff6a
+SHA1: 5eaf035eb5f3763f830ddea4f61ba6918793565c
+MD5sum: 67399750e27b21f229185d56ab76be8f
+Description: Debian Package Builder
+ Debreate is a utility to aid in creating installable Debian packages (.deb).
+ .
+ The goal behind the project is to make developing for Debian based Linux
+ distributions more appealing, with an easy to use interface for packaging
+ applications, artwork, media, themes, etc.
+ .
+ Currently, it only supports "binary" packaging which allows packaging of
+ anything that does not require being compiled from source, such as scripted
+ applications or media. These packages can then be used for personal
+ distribution.
+ .
+ Plans for using backends such as dh_make & debuild for creating source packages
+ are in the works. But source packaging can be quite different & is a must if
+ you want to get your packages into a distribution's official repositories or a
+ Launchpad Personal Package Archive (PPA).
+
