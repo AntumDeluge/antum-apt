@@ -1,0 +1,13 @@
+#!/bin/bash
+
+COMPONENT=${COMPONENT:=main}
+DISTS=$(grep "Codename:" "./conf/distributions" | sed -e 's/Codename: //')
+
+if [ ! "$2" == "" ]; then
+	COMPONENT=$2
+fi
+
+for D in ${DISTS}; do
+	echo -e "\nSetting up for distribution: ${D}"
+	reprepro --ask-passphrase -Vb . -C ${COMPONENT} includedeb ${D} $1
+done
