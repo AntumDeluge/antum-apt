@@ -1,3 +1,18 @@
+Package: antum-pubkey
+Version: 0.1
+Installed-Size: 36
+Maintainer: Jordan Irwin <antumdeluge@gmail.com>
+Architecture: all
+Pre-Depends: apt, wget
+Priority: standard
+Section: admin
+Filename: pool/testing/a/antum-pubkey/antum-pubkey_0.1_all.deb
+Size: 968
+SHA256: c47a66090ee869b8eafe22283358750c4a47446014e41550989bca02dec9c9b9
+SHA1: aa738c12dc8104c8d9367316d3cabd11cf0a8d83
+MD5sum: 3b73fdc40fb766d2a0602ecef530f66a
+Description: Meta package to install the public key for this repository
+
 Package: debreate
 Version: 0.7.13-dev4
 Architecture: all
