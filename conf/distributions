@@ -1,0 +1,17 @@
+Origin: GitHub
+Label: Debreate APT
+Codename: xenial
+Architectures: i386 amd64
+Components: main testing
+Description: Debreate package repository
+SignWith: yes
+Pull: xenial
+
+Origin: GitHub
+Label: Debreate APT
+Codename: yackety
+Architectures: i386 amd64
+Components: main testing
+Description: Debreate package repository
+SignWith: yes
+Pull: yackety
