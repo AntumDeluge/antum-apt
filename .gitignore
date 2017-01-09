@@ -2,3 +2,6 @@
 /.settings/
 /.project
 /.pydevproject
+
+# Compiled Python bytecode files
+*.pyc
