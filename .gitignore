@@ -5,3 +5,6 @@
 
 # Compiled Python bytecode files
 *.pyc
+
+# Debian distribution directory
+/debian/
