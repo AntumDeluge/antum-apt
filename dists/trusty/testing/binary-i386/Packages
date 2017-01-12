@@ -14,21 +14,21 @@ MD5sum: 8f06c9718b510f175f80e6e851b6fd3d
 Description: Meta package to install the public key for this repository
 
 Package: debreate
-Version: 0.7.13-dev7
+Version: 0.7.13-dev8
 Architecture: all
 Maintainer: Jordan Irwin <antumdeluge@gmail.com>
-Installed-Size: 1462
+Installed-Size: 1463
 Depends: python2.7, python-wxgtk3.0 | python-wxgtk2.8, fakeroot, dpkg (>= 1.0.0), file, util-linux (>= 2.0.0), debianutils (>= 4.0.0)
 Recommends: lintian, coreutils (>= 8.0), xdg-utils, man-db, gzip (>= 1.0), binutils, gvfs-bin
 Suggests: gdebi | gdebi-kde
 Homepage: https://antumdeluge.github.io/debreate-web/
 Priority: optional
 Section: devel
-Filename: pool/testing/d/debreate/debreate_0.7.13-dev7_all.deb
-Size: 593624
-SHA256: 6885d1b67e23017f56f6a26f30de611f6f8e1e565216b11a104a54853ef92774
-SHA1: 0b8c13779156be1780fbc70bd0325e5fdc33d67d
-MD5sum: 53ed5f83e1d23c7db65d4b544d22e2b7
+Filename: pool/testing/d/debreate/debreate_0.7.13-dev8_all.deb
+Size: 593770
+SHA256: 5c8940eba2af7f4909ebfe5413b647c3154534613e97053caa2b90b640e42f7c
+SHA1: 61ce89cdda36171cf8f0dbeb4ed437f561ab6dff
+MD5sum: 5251ab05ad328f7144ce17be29b64d2f
 Description: Debian Package Builder
  Debreate is a utility to aid in creating installable Debian packages (.deb).
  .
