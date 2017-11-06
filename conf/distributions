@@ -1,5 +1,23 @@
 Origin: GitHub
 Label: Debreate APT
+Codename: bionic
+Architectures: i386 amd64
+Components: main testing
+Description: Debreate package repository
+SignWith: F44C290A
+Pull: bionic
+
+Origin: GitHub
+Label: Debreate APT
+Codename: artful
+Architectures: i386 amd64
+Components: main testing
+Description: Debreate package repository
+SignWith: F44C290A
+Pull: artful
+
+Origin: GitHub
+Label: Debreate APT
 Codename: zesty
 Architectures: i386 amd64
 Components: main testing

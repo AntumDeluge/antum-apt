@@ -31,3 +31,32 @@ Description: Debian Package Builder
  you want to get your packages into a distribution's official repositories or a
  Launchpad Personal Package Archive (PPA).
 
+Package: stendhal-noblood
+Version: 1.26-1
+Architecture: all
+Maintainer: Jordan Irwin <antumdeluge@gmail.com>
+Installed-Size: 36565
+Depends: default-jre | openjdk-8-jre | openjdk-9-jre | openjdk-7-jre
+Homepage: https://stendhalgame.org/
+Priority: optional
+Section: games
+Filename: pool/main/s/stendhal-noblood/stendhal-noblood_1.26-1_all.deb
+Size: 35823406
+SHA256: f232c416b8ee092bca378f3d6f4d3b8e3d55f10f86eb634d2592f94426ba48ef
+SHA1: a9ab1cf4f0a7e3878eecd94d7be17a92ae7070ce
+MD5sum: b2b595d477991f53aff90788fcadf80f
+Description: 2-dimensional fantasy multiplayer online role-playing game
+ Stendhal is a fun, friendly, & free multiplayer online adventure game
+ with an old school feel.
+ .
+ It has a huge & rich world. You can explore cities, forests, mountains,
+ plains, & dungeons. Fight monsters & become a hero.
+ .
+ You will meet a wide variety of characters. Many will give you tasks &
+ quests for valuable experience. You may be asked to help protect land,
+ feed the hungry, heal the sick, make someone happy, solve a puzzle, or
+ simply lend a hand.
+ .
+ This modified version of the game client disallows enabling the blood
+ setting.
+
