@@ -1,16 +1,16 @@
 Origin: GitHub
 Label: Debreate APT
 Codename: precise
-Date: Mon, 06 Nov 2017 23:08:57 UTC
+Date: Wed, 08 Nov 2017 02:15:53 UTC
 Architectures: i386 amd64
 Components: main testing
 Description: Debreate package repository
 MD5Sum:
- 2efb6ae14015991a36098678cd833c2e 2669 main/binary-i386/Packages
- efc1e9ab34ff62dc59fbefca2e60b95a 1453 main/binary-i386/Packages.gz
+ 6f1ecbbce084cc98254d07fc180c9b86 3331 main/binary-i386/Packages
+ 61dd740724e3674bd0828127c6125064 1687 main/binary-i386/Packages.gz
  f12530ba245a6ccbff60b75423ccffaf 111 main/binary-i386/Release
- 2efb6ae14015991a36098678cd833c2e 2669 main/binary-amd64/Packages
- efc1e9ab34ff62dc59fbefca2e60b95a 1453 main/binary-amd64/Packages.gz
+ 6f1ecbbce084cc98254d07fc180c9b86 3331 main/binary-amd64/Packages
+ 61dd740724e3674bd0828127c6125064 1687 main/binary-amd64/Packages.gz
  8351140aac8a48cf01f8cd5fb97f6c5c 112 main/binary-amd64/Release
  c55044e8a0d63adfa0603616609b13ef 485 testing/binary-i386/Packages
  cf80f8465d0b8400a78ae0152e230a07 365 testing/binary-i386/Packages.gz
@@ -19,11 +19,11 @@ MD5Sum:
  cf80f8465d0b8400a78ae0152e230a07 365 testing/binary-amd64/Packages.gz
  6a94dbe18efbe90ad0beec6de826e4f8 115 testing/binary-amd64/Release
 SHA1:
- feb7cc7e74d3b932c18486fcadb7ddd586c5ffff 2669 main/binary-i386/Packages
- e1ed7b2259d1a91011ff167919150ac3e18c6612 1453 main/binary-i386/Packages.gz
+ fa837999cb83858f3e765d8e2e48b12a91addb6f 3331 main/binary-i386/Packages
+ ae00cb2e8f25c1f405ff3640fa5ee93c0097578f 1687 main/binary-i386/Packages.gz
  3e0d9f0eb92e3edfad34154abb21ad351ef88caf 111 main/binary-i386/Release
- feb7cc7e74d3b932c18486fcadb7ddd586c5ffff 2669 main/binary-amd64/Packages
- e1ed7b2259d1a91011ff167919150ac3e18c6612 1453 main/binary-amd64/Packages.gz
+ fa837999cb83858f3e765d8e2e48b12a91addb6f 3331 main/binary-amd64/Packages
+ ae00cb2e8f25c1f405ff3640fa5ee93c0097578f 1687 main/binary-amd64/Packages.gz
  107f6523997fd7e78191ff019e395517f6d3dce8 112 main/binary-amd64/Release
  9fe22d89048160b193e71de23b346350d0dde199 485 testing/binary-i386/Packages
  d44a9ec2367c813e84ca44d5d25ac003896a00f9 365 testing/binary-i386/Packages.gz
@@ -32,11 +32,11 @@ SHA1:
  d44a9ec2367c813e84ca44d5d25ac003896a00f9 365 testing/binary-amd64/Packages.gz
  59d59dc57eb30c998da6308a6a02fbe5c7db08d1 115 testing/binary-amd64/Release
 SHA256:
- 1b5795b270275ce0c7dc533a2d307f313349c0ddcf134a597bafcf8cd42955dc 2669 main/binary-i386/Packages
- 0cc7bad533555c029c6397780c983325bfcf5f933da94de220fb4453f93a4c09 1453 main/binary-i386/Packages.gz
+ 39bb8f1dfce6ea1a86feb4e52b058edc0a1661388bed8621612ce50589ad304f 3331 main/binary-i386/Packages
+ 937d4bf49a61b445b477028f3423947ffa241c743fb3d08412e6422a7885ac89 1687 main/binary-i386/Packages.gz
  d25a9943b50910ce0cc061c25f546395fd08112349abc802099910c844c63ac5 111 main/binary-i386/Release
- 1b5795b270275ce0c7dc533a2d307f313349c0ddcf134a597bafcf8cd42955dc 2669 main/binary-amd64/Packages
- 0cc7bad533555c029c6397780c983325bfcf5f933da94de220fb4453f93a4c09 1453 main/binary-amd64/Packages.gz
+ 39bb8f1dfce6ea1a86feb4e52b058edc0a1661388bed8621612ce50589ad304f 3331 main/binary-amd64/Packages
+ 937d4bf49a61b445b477028f3423947ffa241c743fb3d08412e6422a7885ac89 1687 main/binary-amd64/Packages.gz
  a19d2603df840431d67d942ed6632c833407f7555cee05d1020580be2574e374 112 main/binary-amd64/Release
  382747bd1f666e3ec6bedfb37e4ca105cc3ac041d37c00587b70469447afcaee 485 testing/binary-i386/Packages
  4d049d5903c3fb8aeb07879eea839b6d8228237cbd2c70a4a7ec7ec965befef8 365 testing/binary-i386/Packages.gz
