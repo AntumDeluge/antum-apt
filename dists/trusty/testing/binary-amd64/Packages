@@ -1,19 +1,19 @@
 Package: debreate
-Version: 0.7.next15
+Version: 0.7.next16
 Architecture: all
 Maintainer: Jordan Irwin <antumdeluge@gmail.com>
-Installed-Size: 1499
+Installed-Size: 1410
 Depends: python2.7, python-wxgtk3.0 | python-wxgtk2.8, fakeroot, dpkg (>= 1.0.0), file, util-linux (>= 2.0.0), debianutils (>= 4.0.0)
-Recommends: lintian, coreutils (>= 8.0), xdg-utils, man-db, gzip (>= 1.0), binutils, gvfs-bin
+Recommends: lintian, coreutils (>= 8.0), xdg-utils, man-db, gzip (>= 1.0), binutils, gvfs-bin, x11-server-utils
 Suggests: gdebi | gdebi-kde
 Homepage: https://antumdeluge.github.io/debreate-web/
 Priority: optional
 Section: devel
-Filename: pool/testing/d/debreate/debreate_0.7.next15_all.deb
-Size: 603018
-SHA256: 5ed15c737be3af07c04d73c579f00f8e8b482b1abbb863d52227365d519f7483
-SHA1: 85c39d603518bd2b8e53fa4d44e455ee506f4604
-MD5sum: 89aaebb6f56105fb730b6a3be0f42dae
+Filename: pool/testing/d/debreate/debreate_0.7.next16_all.deb
+Size: 615140
+SHA256: edcad48601b01f70fc436dcf7b2739921587b5a3cc29a1663f907ae863f76267
+SHA1: 582f3283756da8947a06407772ae2bf1bc94d538
+MD5sum: 6c64d23a6a5120a5d12f9570c81b87bc
 Description: Debian Package Builder
  Debreate is a utility to aid in creating installable Debian packages (.deb).
  .
