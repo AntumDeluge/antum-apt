@@ -78,3 +78,29 @@ Description: 2-dimensional fantasy multiplayer online role-playing game
  This modified version of the game client disallows enabling the blood
  setting.
 
+Package: stendhal-webstart
+Version: 1.1
+Architecture: all
+Maintainer: Jordan Irwin <antumdeluge@gmail.com>
+Installed-Size: 22
+Depends: icedtea-plugin (>= 1.3)
+Homepage: https://stendhalgame.org/
+Priority: optional
+Section: games
+Filename: pool/main/s/stendhal-webstart/stendhal-webstart_1.1_all.deb
+Size: 8882
+SHA256: 1686c5b67efe04b4096486796c89f354aef39c67e9d79434c75e4ae59d615458
+SHA1: 8585da0b48df1556a5ae9d99b4bb7184bc63ff13
+MD5sum: 0a39ae4f7fad6b88af8dc636b9fcab2b
+Description: 2-dimensional fantasy multiplayer online role-playing game
+ Stendhal is a fun, friendly, & free multiplayer online adventure game
+ with an old school feel.
+ .
+ It has a huge & rich world. You can explore cities, forests,
+ mountains, plains, & dungeons. Fight monsters & become a hero.
+ .
+ You will meet a wide variety of characters. Many will give you tasks
+ & quests for valuable experience. You may be asked to help protect
+ land, feed the hungry, heal the sick, make someone happy, solve a
+ puzzle, or simply lend a hand.
+
