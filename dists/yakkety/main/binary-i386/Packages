@@ -1,5 +1,5 @@
 Package: antum-pubkey-installer
-Version: 1.0
+Version: 1.1
 Installed-Size: 56
 Maintainer: Jordan Irwin <antumdeluge@gmail.com>
 Homepage: https://antumdeluge.github.io/apt
@@ -7,11 +7,11 @@ Architecture: all
 Pre-Depends: apt, wget
 Priority: standard
 Section: admin
-Filename: pool/main/a/antum-pubkey-installer/antum-pubkey-installer_1.0_all.deb
-Size: 3996
-SHA256: 6b7cd9a3b8bc2c67a10eb7ec941028f7a9361d041a3115332e9391dca34ebb45
-SHA1: f2976dcf328cefebf21ddfd481599c88866d3860
-MD5sum: a6944a8bb5d10640461e1f8c8cb0f7d2
+Filename: pool/main/a/antum-pubkey-installer/antum-pubkey-installer_1.1_all.deb
+Size: 4078
+SHA256: 526ea1ec525ef08982bf03ef31d5edbdf37d5597b586e44e3817708ca13a80e5
+SHA1: d4f9708b773b7eee4ee1bcfe84112edd43bc2cda
+MD5sum: f76ac5d24c415daecb0681ade9ea356d
 Description: Meta package to install the public GPG key for the Antum repository
  This package will install the public GPG key for the Antum repository
  from a remote location.

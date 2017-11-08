@@ -1,7 +1,7 @@
 [DEBREATE-0.7.13]
 <<CTRL>>
 Package: antum-pubkey-installer
-Version: 1.0
+Version: 1.1
 Maintainer: Jordan Irwin <antumdeluge@gmail.com>
 Section: admin
 Homepage: https://antumdeluge.github.io/apt
@@ -39,6 +39,20 @@ apt-key del F44C290A
 <</SCRIPTS>>
 <<CHANGELOG>>
 <<DEST>>DEFAULT<</DEST>>
+antum-pubkey-installer (1.1) ; urgency=low
+
+  * Update changelog
+
+ -- Jordan Irwin <antumdeluge@gmail.com>  Tue, 07 Nov 2017 20:58:45 -0800
+
+
+antum-pubkey-installer (1.0) ; urgency=low
+
+  * Use pre-remove script for removing PGP key instead of post-remove
+
+ -- Jordan Irwin <antumdeluge@gmail.com>  Tue, 07 Nov 2017 20:58:24 -0800
+
+
 antum-pubkey-installer (0.2) xenial; urgency=low
 
   * Renamed package to "antum-pubkey-installer"
