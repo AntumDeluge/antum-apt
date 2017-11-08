@@ -1,7 +1,7 @@
 [DEBREATE-0.7.13]
 <<CTRL>>
 Package: antum-pubkey-installer
-Version: 0.2
+Version: 1.0
 Maintainer: Jordan Irwin <antumdeluge@gmail.com>
 Section: admin
 Homepage: https://antumdeluge.github.io/apt
@@ -28,13 +28,13 @@ wget -O- https://raw.githubusercontent.com/AntumDeluge/apt/master/antum-pub-gpg.
 0
 <</POSTINST>>
 <<PRERM>>
-0
-<</PRERM>>
-<<POSTRM>>
 1
 #!/bin/bash -e
 
 apt-key del F44C290A
+<</PRERM>>
+<<POSTRM>>
+0
 <</POSTRM>>
 <</SCRIPTS>>
 <<CHANGELOG>>
