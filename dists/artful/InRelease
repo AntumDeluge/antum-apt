@@ -4,7 +4,7 @@ Hash: SHA256
 Origin: GitHub
 Label: Debreate APT
 Codename: artful
-Date: Wed, 08 Nov 2017 05:00:11 UTC
+Date: Wed, 08 Nov 2017 05:20:39 UTC
 Architectures: i386 amd64
 Components: main testing
 Description: Debreate package repository
@@ -15,11 +15,11 @@ MD5Sum:
  76866dd10f0e6f806bc44f842fe56f8c 4341 main/binary-amd64/Packages
  65f75beaa6e61668185c0f3f148ca5cf 1863 main/binary-amd64/Packages.gz
  8351140aac8a48cf01f8cd5fb97f6c5c 112 main/binary-amd64/Release
- c55044e8a0d63adfa0603616609b13ef 485 testing/binary-i386/Packages
- cf80f8465d0b8400a78ae0152e230a07 365 testing/binary-i386/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 testing/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 testing/binary-i386/Packages.gz
  fda9b1de6dd8192f366178c2f42c87f4 114 testing/binary-i386/Release
- c55044e8a0d63adfa0603616609b13ef 485 testing/binary-amd64/Packages
- cf80f8465d0b8400a78ae0152e230a07 365 testing/binary-amd64/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 testing/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 testing/binary-amd64/Packages.gz
  6a94dbe18efbe90ad0beec6de826e4f8 115 testing/binary-amd64/Release
 SHA1:
  fbf5657c5fdf3ed3d3db6b03b69bd99bf42d043b 4341 main/binary-i386/Packages
@@ -28,11 +28,11 @@ SHA1:
  fbf5657c5fdf3ed3d3db6b03b69bd99bf42d043b 4341 main/binary-amd64/Packages
  2d8dc3258a7c55a1694c879582e6679c8c035377 1863 main/binary-amd64/Packages.gz
  107f6523997fd7e78191ff019e395517f6d3dce8 112 main/binary-amd64/Release
- 9fe22d89048160b193e71de23b346350d0dde199 485 testing/binary-i386/Packages
- d44a9ec2367c813e84ca44d5d25ac003896a00f9 365 testing/binary-i386/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 testing/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 testing/binary-i386/Packages.gz
  94e425178eacf5217746a342462f691ba53f6068 114 testing/binary-i386/Release
- 9fe22d89048160b193e71de23b346350d0dde199 485 testing/binary-amd64/Packages
- d44a9ec2367c813e84ca44d5d25ac003896a00f9 365 testing/binary-amd64/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 testing/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 testing/binary-amd64/Packages.gz
  59d59dc57eb30c998da6308a6a02fbe5c7db08d1 115 testing/binary-amd64/Release
 SHA256:
  4212eff945b396b5b6ae9a607872b2aac3af536ad53ccbc272eba3314e65f381 4341 main/binary-i386/Packages
@@ -41,20 +41,20 @@ SHA256:
  4212eff945b396b5b6ae9a607872b2aac3af536ad53ccbc272eba3314e65f381 4341 main/binary-amd64/Packages
  47f6a22134a4de0cd04a3f0e2901e047b4e32708e4426f763f21c3f2dcce9bfe 1863 main/binary-amd64/Packages.gz
  a19d2603df840431d67d942ed6632c833407f7555cee05d1020580be2574e374 112 main/binary-amd64/Release
- 382747bd1f666e3ec6bedfb37e4ca105cc3ac041d37c00587b70469447afcaee 485 testing/binary-i386/Packages
- 4d049d5903c3fb8aeb07879eea839b6d8228237cbd2c70a4a7ec7ec965befef8 365 testing/binary-i386/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 testing/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 testing/binary-i386/Packages.gz
  055e93609cd773348e8a6d23956675ab1dbc0a03e4c64bbbad99ab44561befdc 114 testing/binary-i386/Release
- 382747bd1f666e3ec6bedfb37e4ca105cc3ac041d37c00587b70469447afcaee 485 testing/binary-amd64/Packages
- 4d049d5903c3fb8aeb07879eea839b6d8228237cbd2c70a4a7ec7ec965befef8 365 testing/binary-amd64/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 testing/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 testing/binary-amd64/Packages.gz
  d256c717361ec378e9c90f965a0c72129fd2c9df84a6821e73af2f2735d88174 115 testing/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v2
 
-iQEcBAEBCAAGBQJaAo9cAAoJEOPjWML0TCkKkRIH+wQHx433V7v7cYxZUskd6qPx
-qI1IlWrVDA0wVHWkdzyeWhle7q9vJ3VH3fvklMuFNOd/yTz/IXw/YEpLmSHsOoE6
-7X1WNH4xhtdE//IdzHG6aHjFtbqIksAiLywXbmmeQG3Ia2dcKkrTJCIQ8QiE7Gx5
-tSk903wCO8ZV9UeNvvQmsSNIZL+P03HNwqc4vxdFmMc9kqvXWd/d0Q6gVpbVvgC3
-rX+cp5DRWmhrZT69u7sOzP8dqd1sQWsImYzfMFTqMgtoTDkV3qCtt3g4VgeETR3A
-wrNo7O2ZwqvlaxPfKz3hItVrx8cGLqc1W7ahbvNa3w9XFR8W4KSLqTVLTB9kMFg=
-=Tyag
+iQEcBAEBCAAGBQJaApQoAAoJEOPjWML0TCkKrusH/iBzOxl6peGD1boe7H0+WyS9
+/NN3/96A8KdIyumHfjzXpFx3f9sjouOgHmmCDi++S6+Yep4DYhQeAkMz76OLraLg
+ez24cUK8k92xK2CgID4BCV3uTigeDS7ImTsuLAqUghFDE31K6c4tjlo4Y5RvrnxU
+PfzK+xZSSLOaU0bMhdcuSgBuTzQI3/BMC4mJCYj2E/Q6VgZToXRo0tsySB6hcKum
+2FUn5gbu8kRmYXrXIdMxMhc98iE52+hRwY/GvZmgZM5UFsVwxYijKE5M9hO2Wmrs
+FMeHK7sLuyy/oU3MzSIvCYQfyiBo/SAMLWO9VT7gGujKC2u6iW3kFRAeCHfpnbE=
+=357I
 -----END PGP SIGNATURE-----
