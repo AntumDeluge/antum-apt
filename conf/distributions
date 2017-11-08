@@ -1,5 +1,14 @@
 Origin: GitHub
 Label: Debreate APT
+Codename: stable
+Architectures: i386 amd64
+Components: main testing
+Description: Debreate package repository
+SignWith: F44C290A
+Pull: stable
+
+Origin: GitHub
+Label: Debreate APT
 Codename: bionic
 Architectures: i386 amd64
 Components: main testing

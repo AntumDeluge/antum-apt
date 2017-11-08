@@ -1,0 +1,62 @@
+Package: debreate
+Version: 0.7.13
+Architecture: all
+Maintainer: Jordan Irwin <antumdeluge@gmail.com>
+Installed-Size: 1501
+Depends: python2.7, python-wxgtk3.0 | python-wxgtk2.8, fakeroot, dpkg (>= 1.0.0), file, util-linux (>= 2.0.0), debianutils (>= 4.0.0)
+Recommends: lintian, coreutils (>= 8.0), xdg-utils, man-db, gzip (>= 1.0), binutils, gvfs-bin
+Suggests: gdebi | gdebi-kde
+Homepage: https://antumdeluge.github.io/debreate-web/
+Priority: optional
+Section: devel
+Filename: pool/main/d/debreate/debreate_0.7.13_all.deb
+Size: 602616
+SHA256: da04aa92e99f0ec66f4704d6908d536a8afc8ef90657530ee555968ecca9cf1e
+SHA1: d8d6e7bef43fdff25e06f26e61708db12841b147
+MD5sum: ec4ea39bed443d2f0ae20809eb057b55
+Description: Debian Package Builder
+ Debreate is a utility to aid in creating installable Debian packages (.deb).
+ .
+ The goal behind the project is to make developing for Debian based Linux
+ distributions more appealing, with an easy to use interface for packaging
+ applications, artwork, media, themes, etc.
+ .
+ Currently, it only supports "binary" packaging which allows packaging of
+ anything that does not require being compiled from source, such as scripted
+ applications or media. These packages can then be used for personal
+ distribution.
+ .
+ Plans for using backends such as dh_make & debuild for creating source packages
+ are in the works. But source packaging can be quite different & is a must if
+ you want to get your packages into a distribution's official repositories or a
+ Launchpad Personal Package Archive (PPA).
+
+Package: stendhal-noblood
+Version: 1.26-1
+Architecture: all
+Maintainer: Jordan Irwin <antumdeluge@gmail.com>
+Installed-Size: 36565
+Depends: default-jre | openjdk-8-jre | openjdk-9-jre | openjdk-7-jre
+Homepage: https://stendhalgame.org/
+Priority: optional
+Section: games
+Filename: pool/main/s/stendhal-noblood/stendhal-noblood_1.26-1_all.deb
+Size: 35823406
+SHA256: f232c416b8ee092bca378f3d6f4d3b8e3d55f10f86eb634d2592f94426ba48ef
+SHA1: a9ab1cf4f0a7e3878eecd94d7be17a92ae7070ce
+MD5sum: b2b595d477991f53aff90788fcadf80f
+Description: 2-dimensional fantasy multiplayer online role-playing game
+ Stendhal is a fun, friendly, & free multiplayer online adventure game
+ with an old school feel.
+ .
+ It has a huge & rich world. You can explore cities, forests, mountains,
+ plains, & dungeons. Fight monsters & become a hero.
+ .
+ You will meet a wide variety of characters. Many will give you tasks &
+ quests for valuable experience. You may be asked to help protect land,
+ feed the hungry, heal the sick, make someone happy, solve a puzzle, or
+ simply lend a hand.
+ .
+ This modified version of the game client disallows enabling the blood
+ setting.
+
